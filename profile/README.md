@@ -3,9 +3,7 @@
 
 *Ten scrolls inscribed with the fire of failure and the ink of insight—chronicling a developer’s transformation through the ancient rites of version control.*
 
-<p align="center">
-  <img src="https://github.com/gitscrolls/gitscrolls-assets/blob/main/tux-hacker.jpg" alt="Tuxicles Bust" />
-</p>
+![Tuxicles](https://media.githubusercontent.com/media/flyingrobots/image-dump/main/original/echos-in-the-diff.png)
 
 ---
 
