@@ -3,7 +3,9 @@
 
 *Ten scrolls inscribed with the fire of failure and the ink of insight—chronicling a developer’s transformation through the ancient rites of version control.*
 
-![Tuxicles](https://media.githubusercontent.com/media/flyingrobots/image-dump/main/original/echos-in-the-diff.png)
+<p align="center">
+  <img src="https://media.githubusercontent.com/media/flyingrobots/image-dump/main/original/echos-in-the-diff.png" alt="What we do in version control echoes in the diff" width="500" />
+</p>
 
 ---
 
