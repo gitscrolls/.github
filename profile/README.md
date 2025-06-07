@@ -25,16 +25,16 @@ Guided by spectral maintainers—**Linus the Elder**, **The Prophet of Red-Green
 
 Each scroll is a parable. Each merge, a ritual. Each test, a prayer:
 
-- **I. The Unbroken Line** — *"Do not trade your history for the illusion of mastery."*
-- **II. The Chronicle of Forgotten Messages** — On the sanctity of clear speech
-- **III. The Oracle’s Testament of Devotion** — *"Tests are proof of love."*
-- **IV. The Schism Scrolls** — *"A fork is not a betrayal—it is a hope divided."*
-- **V. The Wounding of Hubris** — Where compassion cuts cleaner than critique
-- **VI. Songs of the Chaos Sirens** — *"Even the bug sings—listen closely."*
-- **VII. Between the Monsters of Time** — Navigating the twin fangs of Premature and Too Late
-- **VIII. Before the Ancient Reviewer** — *"Blame not to shame, but to remember."*
-- **IX. The Commandments of the Wise** — How teachings echo through generations of code
-- **X. Where Heroes Go to Die** — And why the circle remains unbroken
+- [**I. The Unbroken Line**](https://github.com/gitscrolls/gitscrolls/blob/main/scrolls/01-Unbroken-Line.md) — *"Do not trade your history for the illusion of mastery."*
+- [**II. The Chronicle of Forgotten Messages**](https://github.com/gitscrolls/gitscrolls/blob/main/scrolls/02-Chronicle-of-Forgotten-Messages.md) — On the sanctity of clear speech
+- [**III. The Oracle’s Testament of Devotion**](https://github.com/gitscrolls/gitscrolls/blob/main/scrolls/03-Oracle-Testament-of-Devotion.md) — *"Tests are proof of love."*
+- [**IV. The Schism Scrolls**](https://github.com/gitscrolls/gitscrolls/blob/main/scrolls/04-Schism-Scrolls.md) — *"A fork is not a betrayal—it is a hope divided."*
+- [**V. The Wounding of Hubris**](https://github.com/gitscrolls/gitscrolls/blob/main/scrolls/05-Wounding-of-Hubris.md) — Where compassion cuts cleaner than critique
+- [**VI. Songs of the Chaos Sirens**](https://github.com/gitscrolls/gitscrolls/blob/main/scrolls/06-Songs-of-Chaos-Sirens.md) — *"Even the bug sings—listen closely."*
+- [**VII. Between the Monsters of Time**](https://github.com/gitscrolls/gitscrolls/blob/main/scrolls/07-Between-Monsters-of-Time.md) — Navigating the twin fangs of Premature and Too Late
+- [**VIII. Before the Ancient Reviewer**](https://github.com/gitscrolls/gitscrolls/blob/main/scrolls/08-Before-Ancient-Reviewer.md) — *"Blame not to shame, but to remember."*
+- [**IX. The Commandments of the Wise**](https://github.com/gitscrolls/gitscrolls/blob/main/scrolls/09-Commandments-of-Wise.md) — How teachings echo through generations of code
+- [**X. Where Heroes Go to Die**](https://github.com/gitscrolls/gitscrolls/blob/main/scrolls/10-Where-Heroes-Go-to-Die.md) — And why the circle remains unbroken
 
 ---
 
@@ -56,4 +56,4 @@ They are written for:
 
 ---
 
-🔗 [Read the Scrolls →](https://github.com/gitscrolls/gitscrolls)
+### 🔗 [Read the Scrolls →](https://github.com/gitscrolls/gitscrolls)
