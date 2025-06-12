@@ -1,59 +1,86 @@
-# 🐧 The GitScrolls  
-## A Sacred Odyssey of Code, Consequence, and Communion
+# 🏛️ Welcome to the House of GitScrolls
 
-*Ten scrolls inscribed with the fire of failure and the ink of insight—chronicling a developer’s transformation through the ancient rites of version control.*
+> *“Not all repositories are code. Some are scripture.”*
 
-<p align="center">
-  <img src="https://media.githubusercontent.com/media/flyingrobots/image-dump/main/original/echos-in-the-diff.png" alt="What we do in version control echoes in the diff" width="500" />
-</p>
+This is the official GitHub organization for **GitScrolls** — a myth-tech codex exploring the spiritual journey of software development.
 
----
-
-### ✨ The Journey
-
-There once was a developer who mistook cleverness for mastery.
-
-His name was **Tuxicles**, and his pride rewrote an authentication system so thoroughly, it undid trust itself. In the silence that followed—amid broken deployments and user despair—he was cast out from the Temple of Open Source.
-
-But exile is not the end.
-
-Guided by spectral maintainers—**Linus the Elder**, **The Prophet of Red-Green**, **The Fork-Bearer of Freedom**—Tuxicles walks the long path of remorse and repair. With every scroll, he earns not just knowledge, but *wisdom paid in scars*.
+Here we preserve, illuminate, and extend the sacred teachings of _Tuxicles the Seeker_ — through prose, philosophy, ritual markdown, and absurdly serious commit messages.
 
 ---
 
-### 📖 The Scrolls of the Way
+## 📜 What Are GitScrolls?
 
-Each scroll is a parable. Each merge, a ritual. Each test, a prayer:
+**GitScrolls** is a developer scripture told as epic.  
+It merges myth and markdown to reveal that version control is not just a tool — it is a path.
 
-- [**I. The Unbroken Line**](https://github.com/gitscrolls/gitscrolls/blob/main/scrolls/01-Unbroken-Line.md) — *"Do not trade your history for the illusion of mastery."*
-- [**II. The Chronicle of Forgotten Messages**](https://github.com/gitscrolls/gitscrolls/blob/main/scrolls/02-Chronicle-of-Forgotten-Messages.md) — On the sanctity of clear speech
-- [**III. The Oracle’s Testament of Devotion**](https://github.com/gitscrolls/gitscrolls/blob/main/scrolls/03-Oracle-Testament-of-Devotion.md) — *"Tests are proof of love."*
-- [**IV. The Schism Scrolls**](https://github.com/gitscrolls/gitscrolls/blob/main/scrolls/04-Schism-Scrolls.md) — *"A fork is not a betrayal—it is a hope divided."*
-- [**V. The Wounding of Hubris**](https://github.com/gitscrolls/gitscrolls/blob/main/scrolls/05-Wounding-of-Hubris.md) — Where compassion cuts cleaner than critique
-- [**VI. Songs of the Chaos Sirens**](https://github.com/gitscrolls/gitscrolls/blob/main/scrolls/06-Songs-of-Chaos-Sirens.md) — *"Even the bug sings—listen closely."*
-- [**VII. Between the Monsters of Time**](https://github.com/gitscrolls/gitscrolls/blob/main/scrolls/07-Between-Monsters-of-Time.md) — Navigating the twin fangs of Premature and Too Late
-- [**VIII. Before the Ancient Reviewer**](https://github.com/gitscrolls/gitscrolls/blob/main/scrolls/08-Before-Ancient-Reviewer.md) — *"Blame not to shame, but to remember."*
-- [**IX. The Commandments of the Wise**](https://github.com/gitscrolls/gitscrolls/blob/main/scrolls/09-Commandments-of-Wise.md) — How teachings echo through generations of code
-- [**X. Where Heroes Go to Die**](https://github.com/gitscrolls/gitscrolls/blob/main/scrolls/10-Where-Heroes-Go-to-Die.md) — And why the circle remains unbroken
+- Sixteen scrolls across five acts  
+- Characters drawn from open-source archetypes  
+- Lessons hidden in lore, commits wrapped in koans  
+- A cycle of fall, exile, and return told through Git
+
+Explore it here:  
+📘 [**The GitScrolls Codex** →](https://github.com/gitscrolls/gitscrolls)
 
 ---
 
-### 🌌 Why Cloak Code in Myth?
+## 🧩 Repositories of the Shrine
 
-Because doctrine alone cannot save you at 3 A.M.
+| Repository | Description |
+|------------|-------------|
+| [`gitscrolls`](https://github.com/gitscrolls/gitscrolls) | The canonical text. Sixteen scrolls. One penguin’s path to wisdom. |
+| [`gitscrolls-assets`](https://github.com/gitscrolls/gitscrolls-assets) | Sacred images, banners, and artistic renderings of the scrolls |
 
-Because `git` does not forgive, but it may yet teach.  
-Because the human behind the keyboard is the true compiler of all meaning.
-
-The GitScrolls are not tutorials. They are testaments.
-
-They are written for:
-- 🐣 **The junior, lost among best practices, seeking purpose**
-- 🧙 **The senior, rich in scars but poor in parables**
-- 🧠 **The mentor, whose silence has grown louder than their teaching**
-- 🫂 **The broken, who wonder if they still belong here**
-- 📖 **The storyteller, who knows that truth in prose dies young—but truth in myth endures**
+More may be revealed in time. Or fork your own path — the Fork-Bearer blesses divergence.
 
 ---
 
-### 🔗 [Read the Scrolls →](https://github.com/gitscrolls/gitscrolls)
+## 🧭 What Belongs Here?
+
+The GitScrolls org houses mythic, developer-centered artifacts of:
+
+- Narrative technical philosophy  
+- Meditative documentation  
+- Sacred markdown & markdown-based rituals  
+- Software-adjacent lore that teaches by story  
+- Artifacts of reverence for the open-source journey
+
+**It is not:**
+- A plugin repo  
+- A general-purpose dev blog  
+- A free-for-all
+
+You want to write code? Fork it.  
+You want to write scripture? Speak with the Scrollkeeper.
+
+---
+
+## 🙏 Participation
+
+This is a **curated mythos**, not a wiki.
+
+We welcome:
+- Typo fixes, layout polish, translation interest
+- Scroll reflections via GitHub Discussions
+- Devs who whisper `git blame` like a confession
+
+We protect:
+- The voice and tone of the Scrolls
+- The canonical scrolls and their path
+- The spirit of Tuxicles, who has suffered enough
+
+---
+
+## 📩 Contact
+
+For inquiries, blessings, or scroll-rights requests:  
+📜 **info@gitscrolls.org**
+
+---
+
+## 🐧 May You Walk the Path
+
+> May your diffs be clean.  
+> May your forks be true.  
+> May your scrolls survive the merge.
+
+— *The Scrollkeeper*
